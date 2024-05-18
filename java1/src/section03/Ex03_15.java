@@ -27,7 +27,7 @@ public class Ex03_15 {
     System.out.println(num1 & num2);
     System.out.println(num1 | num2);//1+2
     System.out.println(num1 ^ num2);
-    System.out.println(5 ^ 2);
+    System.out.println(3 ^ 2);
     
     
 
