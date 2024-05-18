@@ -1,0 +1,10 @@
+package section03;
+
+public class Ex03_10 {
+  public static void main(String[] args) {
+    double num1 = 1.2345;
+    int num2 = 6;
+
+    System.out.println(num1 + num2);
+  }
+}
