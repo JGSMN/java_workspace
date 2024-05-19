@@ -26,9 +26,11 @@ public class Ex03_15 {
     System.out.println("###비트연산###");
     System.out.println(num1 & num2);
     System.out.println(num1 | num2);//1+2
-    System.out.println(num1 ^ num2);
-    System.out.println(3 ^ 2);
-    
+    System.out.println(num1 ^ num2);//3
+    System.out.println(3 ^ 2);  //1, shift
+    System.out.println(3 >> 1); //1, shift
+    System.out.println(3 << 1); //6, shift
+    System.out.println(3 << 2); //12, shift
     
 
   }
