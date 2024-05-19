@@ -6,6 +6,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Ex03_13_Practice",
+      "request": "launch",
+      "mainClass": "section03.Ex03_13_Practice",
+      "projectName": "java_workspace_7e7aeb20"
+    },
+    {
+      "type": "java",
+      "name": "ExForComma",
+      "request": "launch",
+      "mainClass": "section05.ExForComma",
+      "projectName": "java_workspace_7e7aeb20"
+    },
+    {
+      "type": "java",
+      "name": "Ex05_05",
+      "request": "launch",
+      "mainClass": "section05.Ex05_05",
+      "projectName": "java_workspace_7e7aeb20"
+    },
+    {
+      "type": "java",
+      "name": "Ex05_04_Practice",
+      "request": "launch",
+      "mainClass": "section05.Ex05_04_Practice",
+      "projectName": "java_workspace_7e7aeb20"
+    },
+    {
+      "type": "java",
+      "name": "Ex05_03_Practice",
+      "request": "launch",
+      "mainClass": "section05.Ex05_03_Practice",
+      "projectName": "java_workspace_7e7aeb20"
+    },
+    {
+      "type": "java",
+      "name": "Ex05_03",
+      "request": "launch",
+      "mainClass": "section05.Ex05_03",
+      "projectName": "java_workspace_7e7aeb20"
+    },
+    {
+      "type": "java",
+      "name": "Ex04_10",
+      "request": "launch",
+      "mainClass": "section04.Ex04_10",
+      "projectName": "java_workspace_7e7aeb20"
+    },
+    {
+      "type": "java",
       "name": "Ex05_05",
       "request": "launch",
       "mainClass": "section05.Ex05_05",
