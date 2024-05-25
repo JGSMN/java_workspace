@@ -6,6 +6,90 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Ex06_05",
+      "request": "launch",
+      "mainClass": "section06.Ex06_05",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex06_04",
+      "request": "launch",
+      "mainClass": "section06.Ex06_04",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex06_03",
+      "request": "launch",
+      "mainClass": "section06.Ex06_03",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex06_01",
+      "request": "launch",
+      "mainClass": "section06.Ex06_01",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Practice05_07",
+      "request": "launch",
+      "mainClass": "section05.Practice05_07",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Practice05_06",
+      "request": "launch",
+      "mainClass": "section05.Practice05_06",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Practice05_04",
+      "request": "launch",
+      "mainClass": "section05.Practice05_04",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Practice05_03",
+      "request": "launch",
+      "mainClass": "section05.Practice05_03",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex05_08",
+      "request": "launch",
+      "mainClass": "section05.Ex05_08",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex05_07",
+      "request": "launch",
+      "mainClass": "section05.Ex05_07",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex05_06",
+      "request": "launch",
+      "mainClass": "section05.Ex05_06",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "VeriableEx",
+      "request": "launch",
+      "mainClass": "section02.VeriableEx",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
       "name": "Ex05_05",
       "request": "launch",
       "mainClass": "section05.Ex05_05",
