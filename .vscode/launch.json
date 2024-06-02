@@ -6,38 +6,150 @@
   "configurations": [
     {
       "type": "java",
-      "name": "Practice006_04",
+      "name": "Ex10_06",
       "request": "launch",
-      "mainClass": "section06.Practice006_04",
-      "projectName": "java_workspace_5dc272eb"
+      "mainClass": "section10.Ex10_06",
+      "projectName": "java_workspace_ccd18d71"
     },
     {
       "type": "java",
-      "name": "Ex06_01",
+      "name": "Ex10_03",
       "request": "launch",
-      "mainClass": "section06.Ex06_01",
-      "projectName": "java_workspace_5dc272eb"
+      "mainClass": "section10.Ex10_03",
+      "projectName": "java_workspace_ccd18d71"
     },
     {
       "type": "java",
-      "name": "Ex05_08",
+      "name": "Ex09_06",
       "request": "launch",
-      "mainClass": "section05.Ex05_08",
-      "projectName": "java_workspace_5dc272eb"
+      "mainClass": "section09.Ex09_06",
+      "projectName": "java_workspace_ccd18d71"
     },
     {
       "type": "java",
-      "name": "Ex06_11",
+      "name": "Ex09_02",
       "request": "launch",
-      "mainClass": "section06.Ex06_11",
-      "projectName": "java_workspace_5dc272eb"
+      "mainClass": "section09.Ex09_02",
+      "projectName": "java_workspace_ccd18d71"
     },
     {
       "type": "java",
-      "name": "Practice006_03",
+      "name": "Practice08_03",
       "request": "launch",
-      "mainClass": "section06.Practice006_03",
-      "projectName": "java_workspace_5dc272eb"
+      "mainClass": "section08.Practice08_03",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex08_21",
+      "request": "launch",
+      "mainClass": "section08.Ex08_21",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex08_19",
+      "request": "launch",
+      "mainClass": "section08.Ex08_19",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex08_17",
+      "request": "launch",
+      "mainClass": "section08.Ex08_17",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex08_15",
+      "request": "launch",
+      "mainClass": "section08.Ex08_15",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex08_11",
+      "request": "launch",
+      "mainClass": "section08.Ex08_11",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex08_09",
+      "request": "launch",
+      "mainClass": "section08.Ex08_09",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex08_03",
+      "request": "launch",
+      "mainClass": "section08.Ex08_03",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "MainTest",
+      "request": "launch",
+      "mainClass": "section08.MainTest",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex08_01",
+      "request": "launch",
+      "mainClass": "section08.Ex08_01",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "section07.Calculator",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex07_15",
+      "request": "launch",
+      "mainClass": "section07.Ex07_15",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex07_13",
+      "request": "launch",
+      "mainClass": "section07.Ex07_13",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex07_11",
+      "request": "launch",
+      "mainClass": "section07.Ex07_11",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex07_09",
+      "request": "launch",
+      "mainClass": "section07.Ex07_09",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Treename",
+      "request": "launch",
+      "mainClass": "section07.Treename",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex07_06",
+      "request": "launch",
+      "mainClass": "section07.Ex07_06",
+      "projectName": "java_workspace_ccd18d71"
     },
     {
       "type": "java",

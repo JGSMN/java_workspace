@@ -2,7 +2,7 @@ package section04;
 
 public class Ex04_10 {
   public static void main(String[] args) {
-    int num = 'A';
+    int num = 7;
 
 
     switch (num) { // 소괄호에 값이 들어옵니다!
