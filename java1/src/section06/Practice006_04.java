@@ -34,8 +34,7 @@ public class Practice006_04 {
       if (count == 26) {
         break;
       }
-      
-      
+          
 
     }
     for (int i = 0; i < mabang.length; i++) {
