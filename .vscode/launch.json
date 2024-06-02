@@ -6,52 +6,360 @@
   "configurations": [
     {
       "type": "java",
-      "name": "Ex03_13_Practice",
+      "name": "Ex10_06",
       "request": "launch",
-      "mainClass": "section03.Ex03_13_Practice",
-      "projectName": "java_workspace_7e7aeb20"
+      "mainClass": "section10.Ex10_06",
+      "projectName": "java_workspace_ccd18d71"
     },
     {
       "type": "java",
-      "name": "ExForComma",
+      "name": "Ex10_03",
       "request": "launch",
-      "mainClass": "section05.ExForComma",
-      "projectName": "java_workspace_7e7aeb20"
+      "mainClass": "section10.Ex10_03",
+      "projectName": "java_workspace_ccd18d71"
     },
     {
       "type": "java",
-      "name": "Ex05_05",
+      "name": "Ex09_06",
       "request": "launch",
-      "mainClass": "section05.Ex05_05",
-      "projectName": "java_workspace_7e7aeb20"
+      "mainClass": "section09.Ex09_06",
+      "projectName": "java_workspace_ccd18d71"
     },
     {
       "type": "java",
-      "name": "Ex05_04_Practice",
+      "name": "Ex09_02",
       "request": "launch",
-      "mainClass": "section05.Ex05_04_Practice",
-      "projectName": "java_workspace_7e7aeb20"
+      "mainClass": "section09.Ex09_02",
+      "projectName": "java_workspace_ccd18d71"
     },
     {
       "type": "java",
-      "name": "Ex05_03_Practice",
+      "name": "Practice08_03",
       "request": "launch",
-      "mainClass": "section05.Ex05_03_Practice",
-      "projectName": "java_workspace_7e7aeb20"
+      "mainClass": "section08.Practice08_03",
+      "projectName": "java_workspace_ccd18d71"
     },
     {
       "type": "java",
-      "name": "Ex05_03",
+      "name": "Ex08_21",
       "request": "launch",
-      "mainClass": "section05.Ex05_03",
-      "projectName": "java_workspace_7e7aeb20"
+      "mainClass": "section08.Ex08_21",
+      "projectName": "java_workspace_ccd18d71"
     },
     {
       "type": "java",
-      "name": "Ex04_10",
+      "name": "Ex08_19",
       "request": "launch",
-      "mainClass": "section04.Ex04_10",
-      "projectName": "java_workspace_7e7aeb20"
+      "mainClass": "section08.Ex08_19",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex08_17",
+      "request": "launch",
+      "mainClass": "section08.Ex08_17",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex08_15",
+      "request": "launch",
+      "mainClass": "section08.Ex08_15",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex08_11",
+      "request": "launch",
+      "mainClass": "section08.Ex08_11",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex08_09",
+      "request": "launch",
+      "mainClass": "section08.Ex08_09",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex08_03",
+      "request": "launch",
+      "mainClass": "section08.Ex08_03",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "MainTest",
+      "request": "launch",
+      "mainClass": "section08.MainTest",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex08_01",
+      "request": "launch",
+      "mainClass": "section08.Ex08_01",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "section07.Calculator",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex07_15",
+      "request": "launch",
+      "mainClass": "section07.Ex07_15",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex07_13",
+      "request": "launch",
+      "mainClass": "section07.Ex07_13",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex07_11",
+      "request": "launch",
+      "mainClass": "section07.Ex07_11",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex07_09",
+      "request": "launch",
+      "mainClass": "section07.Ex07_09",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Treename",
+      "request": "launch",
+      "mainClass": "section07.Treename",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex07_06",
+      "request": "launch",
+      "mainClass": "section07.Ex07_06",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex07_03",
+      "request": "launch",
+      "mainClass": "section07.Ex07_03",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Practice06_04",
+      "request": "launch",
+      "mainClass": "section06.Practice06_04",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "ArrayExample",
+      "request": "launch",
+      "mainClass": "section06.ArrayExample",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Practice06_03",
+      "request": "launch",
+      "mainClass": "section06.Practice06_03",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Practice06_02",
+      "request": "launch",
+      "mainClass": "section06.Practice06_02",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex06_17",
+      "request": "launch",
+      "mainClass": "section06.Ex06_17",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex06_16",
+      "request": "launch",
+      "mainClass": "section06.Ex06_16",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex06_15",
+      "request": "launch",
+      "mainClass": "section06.Ex06_15",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex06_14",
+      "request": "launch",
+      "mainClass": "section06.Ex06_14",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex06_14_multi",
+      "request": "launch",
+      "mainClass": "section06.Ex06_14_multi",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex06_13",
+      "request": "launch",
+      "mainClass": "section06.Ex06_13",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex06_12",
+      "request": "launch",
+      "mainClass": "section06.Ex06_12",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex06_11",
+      "request": "launch",
+      "mainClass": "section06.Ex06_11",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex06_10",
+      "request": "launch",
+      "mainClass": "section06.Ex06_10",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex06_09",
+      "request": "launch",
+      "mainClass": "section06.Ex06_09",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex06_08",
+      "request": "launch",
+      "mainClass": "section06.Ex06_08",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex06_07",
+      "request": "launch",
+      "mainClass": "section06.Ex06_07",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex06_06",
+      "request": "launch",
+      "mainClass": "section06.Ex06_06",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex06_05",
+      "request": "launch",
+      "mainClass": "section06.Ex06_05",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex06_04",
+      "request": "launch",
+      "mainClass": "section06.Ex06_04",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex06_03",
+      "request": "launch",
+      "mainClass": "section06.Ex06_03",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex06_01",
+      "request": "launch",
+      "mainClass": "section06.Ex06_01",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Practice05_07",
+      "request": "launch",
+      "mainClass": "section05.Practice05_07",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Practice05_06",
+      "request": "launch",
+      "mainClass": "section05.Practice05_06",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Practice05_04",
+      "request": "launch",
+      "mainClass": "section05.Practice05_04",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Practice05_03",
+      "request": "launch",
+      "mainClass": "section05.Practice05_03",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex05_08",
+      "request": "launch",
+      "mainClass": "section05.Ex05_08",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex05_07",
+      "request": "launch",
+      "mainClass": "section05.Ex05_07",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex05_06",
+      "request": "launch",
+      "mainClass": "section05.Ex05_06",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "VeriableEx",
+      "request": "launch",
+      "mainClass": "section02.VeriableEx",
+      "projectName": "java_workspace_ccd18d71"
     },
     {
       "type": "java",
