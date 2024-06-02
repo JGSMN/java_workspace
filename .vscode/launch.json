@@ -6,6 +6,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Practice09_05",
+      "request": "launch",
+      "mainClass": "section09.Practice09_05",
+      "projectName": "java_workspace_5dc272eb"
+    },
+    {
+      "type": "java",
+      "name": "Ex07_03",
+      "request": "launch",
+      "mainClass": "section07.Ex07_03",
+      "projectName": "java_workspace_5dc272eb"
+    },
+    {
+      "type": "java",
+      "name": "Ex08_09",
+      "request": "launch",
+      "mainClass": "section08.Ex08_09",
+      "projectName": "java_workspace_5dc272eb"
+    },
+    {
+      "type": "java",
+      "name": "Ex08_07",
+      "request": "launch",
+      "mainClass": "section08.Ex08_07",
+      "projectName": "java_workspace_5dc272eb"
+    },
+    {
+      "type": "java",
+      "name": "Practice03_05",
+      "request": "launch",
+      "mainClass": "section03.Practice03_05",
+      "projectName": "java_workspace_5dc272eb"
+    },
+    {
+      "type": "java",
+      "name": "Practice_07_04",
+      "request": "launch",
+      "mainClass": "section07.Practice_07_04",
+      "projectName": "java_workspace_5dc272eb"
+    },
+    {
+      "type": "java",
       "name": "Ex10_06",
       "request": "launch",
       "mainClass": "section10.Ex10_06",

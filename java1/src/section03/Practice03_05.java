@@ -12,7 +12,7 @@ public class Practice03_05 {
 
 
 
- char a = "A";
-  int b = 2;
+//  char a = "A";
+//   int b = 2;
 
-  python (a * b) AA 65  130
+//   python (a * b) AA 65  130
