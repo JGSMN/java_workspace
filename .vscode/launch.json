@@ -6,6 +6,7 @@
   "configurations": [
     {
       "type": "java",
+<<<<<<< HEAD
       "name": "Ex11_05",
       "request": "launch",
       "mainClass": "section11.Ex11_05",
@@ -52,6 +53,47 @@
       "request": "launch",
       "mainClass": "section10.Ex10_09",
       "projectName": "java_workspace_ccd18d71"
+=======
+      "name": "Practice09_05",
+      "request": "launch",
+      "mainClass": "section09.Practice09_05",
+      "projectName": "java_workspace_5dc272eb"
+    },
+    {
+      "type": "java",
+      "name": "Ex07_03",
+      "request": "launch",
+      "mainClass": "section07.Ex07_03",
+      "projectName": "java_workspace_5dc272eb"
+    },
+    {
+      "type": "java",
+      "name": "Ex08_09",
+      "request": "launch",
+      "mainClass": "section08.Ex08_09",
+      "projectName": "java_workspace_5dc272eb"
+    },
+    {
+      "type": "java",
+      "name": "Ex08_07",
+      "request": "launch",
+      "mainClass": "section08.Ex08_07",
+      "projectName": "java_workspace_5dc272eb"
+    },
+    {
+      "type": "java",
+      "name": "Practice03_05",
+      "request": "launch",
+      "mainClass": "section03.Practice03_05",
+      "projectName": "java_workspace_5dc272eb"
+    },
+    {
+      "type": "java",
+      "name": "Practice_07_04",
+      "request": "launch",
+      "mainClass": "section07.Practice_07_04",
+      "projectName": "java_workspace_5dc272eb"
+>>>>>>> 70ee2f59787d70a2c897c225d6e008050ea0c77b
     },
     {
       "type": "java",

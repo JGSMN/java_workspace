@@ -2,7 +2,7 @@ package section07;
 
 public class Practice_07_04 {
   public static void main(String[] args) {
-    Speaker speaker = new speaker();
+    Speaker speaker = new Speaker();
     speaker.turnOn();
 
   }

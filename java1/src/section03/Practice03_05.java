@@ -8,3 +8,11 @@ public class Practice03_05 {
     System.out.println(a);
   }
 }
+
+
+
+
+//  char a = "A";
+//   int b = 2;
+
+//   python (a * b) AA 65  130
