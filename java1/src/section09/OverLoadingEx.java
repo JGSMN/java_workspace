@@ -10,8 +10,9 @@ class book{
     OverTest(String s) {
     str1 = s;
   }
-    OverTest(int n1, String s, int n2) {
+    OverTest(int n1, String s1, int n2) {
     num1 = n1;
+    str1 = s1;
     num2 = n2;
   }
     OverTest(int n1, int n2, String s) {

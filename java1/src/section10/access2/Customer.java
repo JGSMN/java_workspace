@@ -1,4 +1,4 @@
-package section10;
+package section10.access2;
 
 public class Customer extends Person {
   int memberID;

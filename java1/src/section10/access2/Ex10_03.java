@@ -1,4 +1,4 @@
-package section10;
+package section10.access2;
 
 public class Ex10_03 {
   public static void main(String[] args) {
