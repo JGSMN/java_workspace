@@ -1,15 +1,19 @@
 package section11;
 
-class Car {}
+class Car {
+}
 
-class Bus extends Car{}
-class SchoolBus extends Bus{}
+class Bus extends Car {
+}
 
-class OpenCar extends Car{}
-class SportCar extends OpenCar{}
+class SchoolBus extends Bus {
+}
 
+class OpenCar extends Car {
+}
 
-
+class SportCar extends OpenCar {
+}
 
 public class Ex11_02 {
   public static void main(String[] args) {

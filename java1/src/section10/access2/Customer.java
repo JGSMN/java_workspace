@@ -7,6 +7,7 @@ public class Customer extends Person {
     super(name, age);
     this.memberID = memberID;
   }
+
   void enter() {
     System.out.println("회원번호 : " + memberID + "(" + name + ", " + age + "세" + ")님 입장하셨습니다.");
   }

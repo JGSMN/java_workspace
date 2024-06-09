@@ -1,14 +1,14 @@
 package section11;
 
-
 public class Calendar {
   String color;
   int months;
-  
+
   Calendar(String color, int months) {
     this.color = color;
     this.months = months;
   }
+
   void info() {
     System.out.println(color + " 달력은" + months + "월까지 있습니다.");
 

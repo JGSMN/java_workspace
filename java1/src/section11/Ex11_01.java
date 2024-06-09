@@ -1,7 +1,10 @@
 package section11;
 
-class Parent {}
-class Child extends Parent{}
+class Parent {
+}
+
+class Child extends Parent {
+}
 
 public class Ex11_01 {
   public static void main(String[] args) {
@@ -10,7 +13,7 @@ public class Ex11_01 {
 
     Parent p2 = new Child();
     Parent p3 = c1;// 자동 형 변환
-    
+
     // Child c2 = (Child) p1; // 런타임에서 에러가 뜸
 
     Child c3 = (Child) p2;
