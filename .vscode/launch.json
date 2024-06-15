@@ -6,6 +6,76 @@
   "configurations": [
     {
       "type": "java",
+      "name": "AnonymousExample",
+      "request": "launch",
+      "mainClass": "section13.anonymous_class.AnonymousExample",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "PersonMain",
+      "request": "launch",
+      "mainClass": "section13.anonymous_class.PersonMain",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "LacalClassExample",
+      "request": "launch",
+      "mainClass": "section13.LacalClassExample",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "LocalClassExample",
+      "request": "launch",
+      "mainClass": "section13.local_class.LocalClassExample",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "StaticClassExample",
+      "request": "launch",
+      "mainClass": "section13.static_class.StaticClassExample",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "CalculatorExample",
+      "request": "launch",
+      "mainClass": "section13.CalculatorExample",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Practice12_02",
+      "request": "launch",
+      "mainClass": "section12.inheritance.Practice12_02",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex12_23",
+      "request": "launch",
+      "mainClass": "section12.inheritance.Ex12_23",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex12_18",
+      "request": "launch",
+      "mainClass": "section12.multi.Ex12_18",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
+      "name": "Ex12_14",
+      "request": "launch",
+      "mainClass": "section12.Ex12_14",
+      "projectName": "java_workspace_ccd18d71"
+    },
+    {
+      "type": "java",
       "name": "Ex12_08",
       "request": "launch",
       "mainClass": "section12.Ex12_08",
