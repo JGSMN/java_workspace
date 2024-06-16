@@ -6,6 +6,125 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MemberCompareExample",
+      "request": "launch",
+      "mainClass": "section15.MemberCompareExample",
+      "projectName": "java_workspace_5dc272eb"
+    },
+    {
+      "type": "java",
+      "name": "Ex15_03",
+      "request": "launch",
+      "mainClass": "section15.Ex15_03",
+      "projectName": "java_workspace_5dc272eb"
+    },
+    {
+      "type": "java",
+      "name": "Ex15_01",
+      "request": "launch",
+      "mainClass": "section15.Ex15_01",
+      "projectName": "java_workspace_5dc272eb"
+    },
+    {
+      "type": "java",
+      "name": "MinusValueExceptionExample",
+      "request": "launch",
+      "mainClass": "section14.MinusValueExceptionExample",
+      "projectName": "java_workspace_5dc272eb"
+    },
+    {
+      "type": "java",
+      "name": "ValueExceptionExample",
+      "request": "launch",
+      "mainClass": "section14.ValueExceptionExample",
+      "projectName": "java_workspace_5dc272eb"
+    },
+    {
+      "type": "java",
+      "name": "Ex14_12",
+      "request": "launch",
+      "mainClass": "section14.Ex14_12",
+      "projectName": "java_workspace_5dc272eb"
+    },
+    {
+      "type": "java",
+      "name": "Ex14_10",
+      "request": "launch",
+      "mainClass": "section14.Ex14_10",
+      "projectName": "java_workspace_5dc272eb"
+    },
+    {
+      "type": "java",
+      "name": "ThrowExceptionExample",
+      "request": "launch",
+      "mainClass": "section14.ThrowExceptionExample",
+      "projectName": "java_workspace_5dc272eb"
+    },
+    {
+      "type": "java",
+      "name": "Ex14_08",
+      "request": "launch",
+      "mainClass": "section14.Ex14_08",
+      "projectName": "java_workspace_5dc272eb"
+    },
+    {
+      "type": "java",
+      "name": "Ex14_06",
+      "request": "launch",
+      "mainClass": "section14.Ex14_06",
+      "projectName": "java_workspace_5dc272eb"
+    },
+    {
+      "type": "java",
+      "name": "Ex14_05",
+      "request": "launch",
+      "mainClass": "section14.Ex14_05",
+      "projectName": "java_workspace_5dc272eb"
+    },
+    {
+      "type": "java",
+      "name": "Ex14_04",
+      "request": "launch",
+      "mainClass": "section14.Ex14_04",
+      "projectName": "java_workspace_5dc272eb"
+    },
+    {
+      "type": "java",
+      "name": "NullPointExceptionExample",
+      "request": "launch",
+      "mainClass": "section14.NullPointExceptionExample",
+      "projectName": "java_workspace_5dc272eb"
+    },
+    {
+      "type": "java",
+      "name": "ArrayIndexOutofBoundsException",
+      "request": "launch",
+      "mainClass": "section14.ArrayIndexOutofBoundsException",
+      "projectName": "java_workspace_5dc272eb"
+    },
+    {
+      "type": "java",
+      "name": "Ex14_02",
+      "request": "launch",
+      "mainClass": "section14.Ex14_02",
+      "projectName": "java_workspace_5dc272eb"
+    },
+    {
+      "type": "java",
+      "name": "MyCarMain",
+      "request": "launch",
+      "mainClass": "section13.MyCarMain",
+      "projectName": "java_workspace_5dc272eb"
+    },
+    {
+      "type": "java",
+      "name": "PermitExampleMain",
+      "request": "launch",
+      "mainClass": "section13.PermitExampleMain",
+      "projectName": "java_workspace_5dc272eb"
+    },
+    {
+      "type": "java",
       "name": "AnonymousExample",
       "request": "launch",
       "mainClass": "section13.anonymous_class.AnonymousExample",
